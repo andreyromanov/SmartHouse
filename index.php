@@ -7,6 +7,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="style.css">
 
   <title>SMART Будинок!</title>
 </head>
@@ -64,6 +65,9 @@
           <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
           <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
         </div>
+
+        <h3 class="text-center mt-5">Схема будинку</h3>
+        <img class="rounded mx-auto d-block img-plan pt-3 pl-3 pr-3" src="plan.png">
 
       </div>
       <div class="col-sm">
